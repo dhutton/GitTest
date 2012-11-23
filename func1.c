@@ -6,6 +6,8 @@
 
 int func1(int x, int y)
 {
-  return x + y;
+  // This first version of this function added the two arguments
+  // The second version will multiply them.
+  return x * y;
 }
 
