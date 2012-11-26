@@ -12,5 +12,7 @@ int func1(int x, int y)
   // In local repo GitTest2, added the sqauring of x before the multiply.
   return x * y;
 
+  // This is a line that I want to keep.
+
 }
 
