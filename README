@@ -5,3 +5,10 @@ This README file contains a bunch of stuff.  Maybe at some point it will
 contain some notes on how to use Git.
 
 
+git fetch -- pulls changes from the remote repo to the local repo
+git pull -- this is a fetch followed by a checkout.
+
+On Linux, I found that I need to set the URL to:
+https://dhutton@github.com/dhutton/GitTest.git
+
+
