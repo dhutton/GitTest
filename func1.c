@@ -1,7 +1,7 @@
 
 // File: func1.c
 //
-// Contains a function to do something
+// This function returns x^2 * y.
 //
 
 int func1(int x, int y)
