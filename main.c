@@ -9,7 +9,7 @@ void main(void)
   printf("Hello, Git, from GitTest local repo 1.");
 
   // repo1: added the 'goodbye.' sign off to the project.
-  printf("goodbye.");
+  printf("Goodbye.");
 
 }
 
