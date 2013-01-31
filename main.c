@@ -9,6 +9,8 @@ void main(void)
 
   // repo1: added the 'goodbye.' sign off to the project.
   printf("Goodbye.");
+
+  // Comment added by repo2.
 }
 
 
