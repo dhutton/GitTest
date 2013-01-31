@@ -13,7 +13,7 @@ int func1(int x, int y)
 
   return x * x * y;
 
-  // This is a line that I want to keep.
+  // This is a line that I want to keep.  This is an important comment.
 
 }
 
