@@ -1,6 +1,7 @@
 
 // Test application to see how git can work on Windows.
 //
+// Program just prints a greeting and then says goodbye.
 
 void main(void)
 {
